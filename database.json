@@ -1,0 +1,165 @@
+{
+  "tochkas": [
+    {
+      "uuid": "p101",
+      "name": "Тарусское время",
+      "type_gl": "poest",
+      "type": "poest_cafe",
+      "location": {
+        "latitude": 54.726861,
+        "longitude": 37.179673
+      },	  
+      "address": "Таруса ул. Луначарского, д. 13",
+      "year": "2010",	  
+      "rate": 8.665,
+      "rejim": "12 - 23",
+      "osob_1": "европейская",
+      "osob_2": "",	  
+      "oplata_id": "",	  
+      "oplata_status": "",
+      "link": "http://xn-----6kcciqe7a1dkiof.xn--p1ai/",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+    {
+      "uuid": "p102",
+      "name": "Ока",
+      "type_gl": "poest",
+      "type": "poest_cafe",
+      "location": {
+        "latitude": 54.728314,
+        "longitude": 37.181800
+      },	  
+      "address": "Таруса ул. Володарского, 2",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "12 - 23",
+      "osob_1": "европейская",
+      "osob_2": "",	
+      "oplata_id": "",	    	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },	
+    {
+      "uuid": "p103",
+      "name": "Парус",
+      "type_gl": "poest",
+      "type": "poest_cafe",
+      "location": {
+        "latitude": 54.728314,
+        "longitude": 37.181800
+      },	  
+      "address": "Таруса ул.  ул. Декабристов, 9",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "12 - 23",
+      "osob_1": "европейская, итальянская, русская",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+  {
+      "uuid": "p104",
+      "name": "Якорь",
+      "type_gl": "poest",
+      "type": "poest_cafe",
+      "location": {
+        "latitude": 54.728314,
+        "longitude": 37.181800
+      },	  
+      "address": "Таруса ул.  ул. Декабристов, 9",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "12 - 23",
+      "osob_1": "европейская, итальянская, русская",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "http://tarusa-yakor.ru/%D0%BA%D0%B0%D1%84%D0%B5/",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    }	
+	],				
+"razd": [
+    {
+      "uuid": "g101",
+      "name": "poest",
+      "is_kon": "0",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+    {
+      "uuid": "g102",
+      "name": "mag",
+      "is_kon": "0",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+	{
+      "uuid": "g103",
+      "name": "avto",
+      "is_kon": "0",	  	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    }	
+  ],
+"sub_razd": [
+    {
+      "uuid": "s101",
+      "id_name": "poest_cafe",	  
+      "name": "Кафе",
+      "gl_gl": "poest",
+      "is_kon": "1",	  
+      "points": ["p101", "p102", "p103", "p104", "p105"]
+    },
+	{
+      "uuid": "s102",
+      "id_name": "poest_rest",	  	  
+      "name": "Рестораны",
+      "gl_gl": "poest",	  	  
+      "is_kon": "1",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+	{
+      "uuid": "s103",
+      "id_name": "poest_bar",	  	  
+      "name": "Бары",
+      "gl_gl": "poest",	  
+      "is_kon": "1",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+    {
+      "uuid": "s111",
+      "id_name": "mag_set",	  
+      "name": "Сетевые маркеты",
+      "gl_gl": "mag",
+      "is_kon": "1",	  
+      "url": "",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+	{
+      "uuid": "s112",
+      "id_name": "mag_ind",	  	  
+      "name": "Индивидуальные",
+      "gl_gl": "mag",	  	  
+      "is_kon": "1",
+      "url": "",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+	{
+      "uuid": "s113",
+      "id_name": "mag_ind_hoz",	  	  
+      "name": "Хозяйственные",
+      "gl_gl": "mag",	  
+      "is_kon": "1",	  
+      "url": "http://world-cinema-plus.com",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    }		
+  ]	
+}
+
+
+
+

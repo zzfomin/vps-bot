@@ -1,0 +1,480 @@
+{
+  "tochkas": [
+    {
+      "uuid": "m101",
+      "name": "Пятерочка",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.727679,
+        "longitude": 37.178232
+      },	  
+      "address": "ул. Луначарского, д. 13",
+      "year": "2010",	  
+      "rate": 8.665,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",	  
+      "oplata_id": "",	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+    {
+      "uuid": "m102",
+      "name": "Пятерочка",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.717426,
+        "longitude": 37.163006
+      },	  
+      "address": "ул. Миронова, 9",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",	
+      "oplata_id": "",	    	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },	
+    {
+      "uuid": "m103",
+      "name": "Пятерочка",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.717878, 
+        "longitude": 37.169251
+      },	  
+      "address": "мкр Курган, рынок",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+  {
+      "uuid": "m104",
+      "name": "Пятерочка",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.720985,
+        "longitude": 37.177289
+      },	  
+      "address": "ул. Шмидта, 30",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+ {
+      "uuid": "m105",
+      "name": "Магнит",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.727328,
+        "longitude": 37.176028
+      },	  
+      "address": "ул. Ленина, 22",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },	
+{
+      "uuid": "m106",
+      "name": "Магнит",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.727117,
+        "longitude": 37.181019
+      },	  
+      "address": "ул. Володарского, 1",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m107",
+      "name": "Дикси",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.726481,
+        "longitude": 37.179839
+      },	  
+      "address": "ул. Володарского",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m108",
+      "name": "Дикси",
+      "type_gl": "mag",
+      "type": "mag_set",
+      "location": {
+        "latitude": 54.717956,
+        "longitude": 37.168998
+      },	  
+      "address": "мкр Курган",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },	
+{
+      "uuid": "m111",
+      "name": "Диром",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.717727,
+        "longitude": 37.163611
+      },	  
+      "address": "ул. Миронова",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m112",
+      "name": "Янтарь",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.717727,
+        "longitude": 37.163611
+      },	  
+      "address": "ул. Миронова",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m113",
+      "name": "У кума",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.717727,
+        "longitude": 37.163611
+      },	  
+      "address": "ул. Миронова",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m114",
+      "name": "Птица",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.717376,
+        "longitude": 37.162796
+      },	  
+      "address": "ул. Миронова, 9",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m115",
+      "name": "Свой",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.717039,
+        "longitude": 37.168665
+      },	  
+      "address": "ул. Голубицкого",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m116",
+      "name": "Продуктовый",
+      "type_gl": "mag",
+      "type": "mag_prod",
+      "location": {
+        "latitude": 54.716955,
+        "longitude": 37.168754
+      },	  
+      "address": "ул. Голубицкого",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },		
+{
+      "uuid": "m121",
+      "name": "Лавка мелочей",
+      "type_gl": "mag",
+      "type": "mag_bak",
+      "location": {
+        "latitude": 54.717727,
+        "longitude": 37.163611
+      },	  
+      "address": "ул. Миронова",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m122",
+      "name": "Ряды",
+      "type_gl": "mag",
+      "type": "mag_bak",
+      "location": {
+        "latitude": 54.717727,
+        "longitude": 37.163611
+      },	  
+      "address": "ул. Миронова",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m123",
+      "name": "София",
+      "type_gl": "mag",
+      "type": "mag_bak",
+      "location": {
+        "latitude": 54.717039,
+        "longitude": 37.168665
+      },	  
+      "address": "ул. Голубицкого",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m124",
+      "name": "Магазин косметики",
+      "type_gl": "mag",
+      "type": "mag_bak",
+      "location": {
+        "latitude": 54.717039,
+        "longitude": 37.168665
+      },	  
+      "address": "ул. Голубицкого",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    },
+{
+      "uuid": "m125",
+      "name": "Косметика",
+      "type_gl": "mag",
+      "type": "mag_bak",
+      "location": {
+        "latitude": 54.717840,
+        "longitude": 37.168051
+      },	  
+      "address": "ул. Голубицкого, 4",	  
+      "year": "2000",
+      "rate": 8.592,
+      "rejim": "хх - хх",
+      "osob_1": "",
+      "osob_2": "",
+      "oplata_id": "",	  	  
+      "oplata_status": "",
+      "link": "",
+      "picture": "",
+      "glavys": ["g101", "g101"]
+    }	
+	],	
+"razd": [
+    {
+      "uuid": "g101",
+      "name": "poest",
+      "is_kon": "0",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+    {
+      "uuid": "g102",
+      "name": "mag",
+      "is_kon": "0",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+	{
+      "uuid": "g103",
+      "name": "avto",
+      "is_kon": "0",	  	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    }	
+  ],
+"sub_razd": [
+    {
+      "uuid": "s101",
+      "id_name": "poest_cafe",	  
+      "name": "Кафе",
+      "gl_gl": "poest",
+      "is_kon": "1",	  
+      "points": ["p101", "p102", "p103", "p104", "p105"]
+    },
+	{
+      "uuid": "s102",
+      "id_name": "poest_rest",	  	  
+      "name": "Рестораны",
+      "gl_gl": "poest",	  	  
+      "is_kon": "1",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+	{
+      "uuid": "s103",
+      "id_name": "poest_bar",	  	  
+      "name": "Бары",
+      "gl_gl": "poest",	  
+      "is_kon": "1",	  
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+    {
+      "uuid": "s111",
+      "id_name": "mag_set",	  
+      "name": "Сетевые маркеты",
+      "gl_gl": "mag",
+      "is_kon": "1",	  
+      "url": "",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },
+	{
+      "uuid": "s112",
+      "id_name": "mag_ind",	  	  
+      "name": "Индивидуальные",
+      "gl_gl": "mag",	  	  
+      "is_kon": "1",
+      "url": "",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    },	
+	{
+      "uuid": "s113",
+      "id_name": "mag_ind_hoz",	  	  
+      "name": "Хозяйственные",
+      "gl_gl": "mag",	  
+      "is_kon": "1",	  
+      "url": "http://world-cinema-plus.com",
+      "points": ["f890", "f678", "f567", "f123", "f234"]
+    }		
+  ]	
+}
+
+
+
+
